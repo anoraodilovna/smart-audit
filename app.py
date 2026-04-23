@@ -8,7 +8,7 @@ from telegram import Bot
 # --- SOZLAMALAR ---
 # Sizning ma'lumotlaringiz joylandi
 TELEGRAM_BOT_TOKEN = "8282946366:AAFnXnwHppJZIngvxFIQvNLjYSWpIG7O8OI"
-TELEGRAM_CHAT_ID = "7887284457"
+TELEGRAM_CHAT_ID = "-1005183567749"
 
 # --- SAHIFA DIZAYNI ---
 st.set_page_config(page_title="AI Financial Auditor Pro", page_icon="💎", layout="wide")
