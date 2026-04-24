@@ -1,5 +1,6 @@
 streamlit
 pandas
 plotly
-python-telegram-bot
 openpyxl
+python-telegram-bot
+groq
