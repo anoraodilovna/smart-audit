@@ -9,7 +9,7 @@ from groq import Groq
 # GitHub-ga yuklashda bularni st.secrets ga o'tkazish tavsiya etiladi
 TELEGRAM_BOT_TOKEN = "8282946366:AAFnXnwHppJZIngvxFIQvNLjYSWpIG7O8OI"
 TELEGRAM_CHAT_ID = "-1003964666189"
-GROQ_API_KEY = "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" 
+GROQ_API_KEY = "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" 
 
 client = Groq(api_key=GROQ_API_KEY)
 
